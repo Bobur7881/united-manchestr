@@ -1,2 +1,0 @@
-print("7 ta oltin top")
-print("1 ta jahon chempionligi")
